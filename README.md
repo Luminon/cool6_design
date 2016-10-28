@@ -2,7 +2,7 @@
 
 ## Resource informaion
 
-## Public
+### Public
 - `title_main.png` : 상단 네비게이션 바의 서비스 로고입니다.
 - `btn_main_leftside_logout.png` : 좌측 사이드의 로그아웃 버튼 아이콘입니다.
 
@@ -25,4 +25,17 @@
 - `ic_main_side_cal_scrum.png` : 우측 사이드 캘린더 부분의 스크럼 아이콘입니다.
 - `ic_main_side_cal_xp.png` : 우측 사이드 캘린더 부분의 XP 아이콘입니다.
 
+## Color information
+
+- `#496BB7` : 서비스 메인 컬러
+- `#DCDCDC` : 특별한 오더가 없을 경우 구분선 기본 컬러
+- `#646464` : 특별한 오더가 없을 경우 기본 텍스트
+- `#BDBDBD` : 특별한 오더가 없을 경우 옅은 서브 텍스트
+- `#4DB6AC` : XP 테마 컬러
+- `#7D8ACD` : SCRUM 테마 컬러
+- `#E57373` : 회의 테마 컬러
+- `#52C4F7` : 회의록 테마 컬러
+- `#A1887F` : 일정 테마 컬러
+- `#FFA726` : 채팅 테마 컬러
+- `#BF73CC` : 대시보드 테마 컬러
 
